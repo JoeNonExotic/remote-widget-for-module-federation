@@ -1,0 +1,5 @@
+*.d.ts
+tmp-typings/
+node_modules
+.idea
+dist
